@@ -77,3 +77,4 @@ PLATFORMS
 
 DEPENDENCIES
   rails
+  sprockets

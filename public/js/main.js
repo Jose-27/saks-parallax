@@ -1,7 +1,6 @@
 // ==================================
 //  Joseph Chavez   WORK
 // =================================
-
 // The job of this function is to listen if the input is checked,
 // and if is replaced with with the debug-on class
 var debugInput = document.querySelector("input");
